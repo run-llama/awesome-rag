@@ -33,4 +33,7 @@
 | --- | --- |
 | RA-DIT: Retrieval-Augmented Dual Instruction Tuning (RA-DIT) | [Paper](https://arxiv.org/abs/2105.11247) |
 
-## 
+## Blogs
+
+- [LLamaIndex](https://blog.llamaindex.ai/)
+- [Wenqi Glantz](https://medium.com/@wenqiglantz)
