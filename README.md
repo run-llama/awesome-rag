@@ -33,3 +33,6 @@
 - [SELF-RAG: LEARNING TO RETRIEVE, GENERATE, AND CRITIQUE THROUGH SELF-REFLECTION](./papers/self-rag.md) - A retrieval-augmented generation model that can be used for self-reflection. (Akari, et al. 2023)
 
 - [Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding](./papers/chain-of-table.md) - A retrieval-augmented generation model that can be used for table understanding. (Zilong, et al. 2024)
+
+## Contributing
+Interested in contributing? Please read the [contribution guidelines](CONTRIBUTING.md) first.
