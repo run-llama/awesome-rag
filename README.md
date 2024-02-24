@@ -34,5 +34,7 @@
 
 - [Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding](./papers/chain-of-table.md) - A retrieval-augmented generation model that can be used for table understanding. (Zilong, et al. 2024)
 
+- [InstructRetro: Instruction Tuning Post Retrieval-Augmented Pretraining](./papers/instructretro.md) - A Large Language Model pretrained with retrieval before instruction tuning (Wei Ping, et al. 2023)
+
 ## Contributing
 Interested in contributing? Please read the [contribution guidelines](CONTRIBUTING.md) first.
