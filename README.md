@@ -14,9 +14,17 @@
 ## Table of Contents
 
 - [Papers](#papers)
+  - [Retrieval](#retrieval)
+  - [RAG vs Finetuning](#rag-vs-finetuning)
+  - [RAG With Knowledge Graphs](#rag-with-knowledge-graphs)
+  - [Evaluation](#evaluation)
+  - [Agents/Tools](#agentstools)
+  - [Survey Papers](#survey-papers)
 - [Blogposts](#blogs)
 
 ## Papers
+
+### Retrieval
 
 - [RAG: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](./papers/rag.md) - An information retrieval augmented generation model that can be used for various knowledge-intensive NLP tasks. (Lewis, Patrick, et al. 2020)
 
@@ -35,6 +43,25 @@
 - [Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding](./papers/chain-of-table.md) - A retrieval-augmented generation model that can be used for table understanding. (Zilong, et al. 2024) [llamapack)](https://github.com/run-llama/llama_index/tree/main/llama-index-packs/llama-index-packs-tables)
 
 - [InstructRetro: Instruction Tuning Post Retrieval-Augmented Pretraining](./papers/instructretro.md) - A Large Language Model pretrained with retrieval before instruction tuning (Wei Ping, et al. 2023)
+
+- [RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval](./papers/raptor.md) - An approach to enhance RAG by creating a summary tree from text chunks, providing deeper insights and overcoming the limitations of short, contiguous text retrieval. (Sarthi, Parth, et al. 2024)
+
+- [HiQA: A Hierarchical Contextual Augmentation RAG for Massive Documents QA](./papers/hiqa.md) - An advanced multi-document question-answering framework that integrates cascading metadata and a multi-route retrieval mechanism, enhancing the accuracy of RAG pipeline. (Chen, Xinyue, et al. 2024)
+
+- [ActiveRAG: Revealing the Treasures of Knowledge via Active Learning](./papers/active_rag.md) - Enhances RAG by active learning to deepen LLMs' understanding of external knowledge through innovative Knowledge Construction and Cognitive Nexus mechanisms. (Xu, Zhipeng, et al. 2024)
+
+### RAG vs Finetuning
+
+- [RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture](./papers/rag_finetuning_agriculture.md) - RAG vs Fine-tuning case study on agriculture domain datasets. (Gupta, Aman, et al. 2024)
+
+### RAG With Knowledge Graphs
+
+### Evaluation
+
+### Agents/Tools
+
+### Survey Papers
+
 
 ## Contributing
 Interested in contributing? Please read the [contribution guidelines](CONTRIBUTING.md) first.
