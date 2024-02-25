@@ -18,7 +18,7 @@
   - [RAG vs Finetuning](#rag-vs-finetuning)
   - [RAG With Knowledge Graphs](#rag-with-knowledge-graphs)
   - [Evaluation](#evaluation)
-  - [Agents/ Tools](#agents/-tools)
+  - [Agents/Tools](#agentstools)
   - [Survey Papers](#survey-papers)
 - [Blogposts](#blogs)
 
@@ -58,7 +58,7 @@
 
 ### Evaluation
 
-### Agents/ Tools
+### Agents/Tools
 
 ### Survey Papers
 
