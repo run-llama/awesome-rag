@@ -30,17 +30,17 @@
 
 - [RA-DIT: Retrieval-Augmented Dual Instruction Tuning (RA-DIT)](./papers/ra-dit.md) - Improve the performance of retrieval-augmented generation models by fine-tuning the retrieval and generation components jointly. (Khattar, Dheeraj, et al. 2021)
 
-- [CRAG - Corrective Retrieval Augmented Generation Llama Pack](./papers/crag.md) - Enhance the robustness of language model generation by evaluating and augmenting the relevance of retrieved documents through a an evaluator and large-scale web searches. (Shi-Qi Yan, Jia-Chen Gu, et al. 2024)
+- [CRAG - Corrective Retrieval Augmented Generation Llama Pack](./papers/crag.md) - Enhance the robustness of language model generation by evaluating and augmenting the relevance of retrieved documents through a an evaluator and large-scale web searches. (Shi-Qi Yan, Jia-Chen Gu, et al. 2024) [llamapack)](https://github.com/run-llama/llama_index/tree/main/llama-index-packs/llama-index-packs-corrective-rag)
 
-- [Dense x Retrieval: What Retrieval Grnaularity Should We Use?](./papers/dense-retrieval.md) - Improve dense retrieval by using a more fine-grained retrieval granularity as known as Propositions. (Tong Chen, et al. 2023)
+- [Dense x Retrieval: What Retrieval Grnaularity Should We Use?](./papers/dense-retrieval.md) - Improve dense retrieval by using a more fine-grained retrieval granularity as known as Propositions. (Tong Chen, et al. 2023) [llamapack)](https://github.com/run-llama/llama_index/tree/main/llama-index-packs/llama-index-packs-dense-x-retrieval)
 
-- [In-Context Learning for Extreme Multi-Label Classification](./papers/in-context-learning.md) - A retrieval-augmented generation model that can be used for extreme multi-label classification. (Karel, et al. 2021)
+- [In-Context Learning for Extreme Multi-Label Classification](./papers/in-context-learning.md) - A retrieval-augmented generation model that can be used for extreme multi-label classification. (Karel, et al. 2021) [llamapack)](https://github.com/run-llama/llama_index/tree/main/llama-index-packs/llama-index-packs-infer-retrieve-rerank)
 
-- [Self-Discover: Large Language Models Self-Compose Reasoning Structures](./papers/self-discover.md) - A retrieval-augmented generation model that can be used for self-composing reasoning structures. (Pei, et al. 2021)
+- [Self-Discover: Large Language Models Self-Compose Reasoning Structures](./papers/self-discover.md) - A retrieval-augmented generation model that can be used for self-composing reasoning structures. (Pei, et al. 2021) [llamapack)](https://github.com/run-llama/llama_index/tree/main/llama-index-packs/llama-index-packs-self-discover)
 
-- [SELF-RAG: LEARNING TO RETRIEVE, GENERATE, AND CRITIQUE THROUGH SELF-REFLECTION](./papers/self-rag.md) - A retrieval-augmented generation model that can be used for self-reflection. (Akari, et al. 2023)
+- [SELF-RAG: LEARNING TO RETRIEVE, GENERATE, AND CRITIQUE THROUGH SELF-REFLECTION](./papers/self-rag.md) - A retrieval-augmented generation model that can be used for self-reflection. (Akari, et al. 2023) [llamapack)](https://github.com/run-llama/llama_index/tree/main/llama-index-packs/llama-index-packs-self-rag)
 
-- [Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding](./papers/chain-of-table.md) - A retrieval-augmented generation model that can be used for table understanding. (Zilong, et al. 2024)
+- [Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding](./papers/chain-of-table.md) - A retrieval-augmented generation model that can be used for table understanding. (Zilong, et al. 2024) [llamapack)](https://github.com/run-llama/llama_index/tree/main/llama-index-packs/llama-index-packs-tables)
 
 - [InstructRetro: Instruction Tuning Post Retrieval-Augmented Pretraining](./papers/instructretro.md) - A Large Language Model pretrained with retrieval before instruction tuning (Wei Ping, et al. 2023)
 
