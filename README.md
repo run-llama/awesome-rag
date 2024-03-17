@@ -62,6 +62,7 @@
 
 ### Survey Papers
 
+- [Retrieval-Augmented Generation for Large Language Models: A Survey](./papers/rag-survey.md) - This survey paper examines Retrieval-Augmented Generation (RAG) in Large Language Models, discussing three paradigms—Naive, Advanced, and Modular RAG—and their key components. It evaluates RAG's impact on accuracy, hallucination reduction, and knowledge updates, also suggesting future research directions for enhancing RAG's effectiveness and scalability. (Yunfan Gao, et al. 2023)
 
 ## Contributing
 Interested in contributing? Please read the [contribution guidelines](CONTRIBUTING.md) first.
