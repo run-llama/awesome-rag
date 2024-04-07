@@ -46,6 +46,8 @@
 
 - [ActiveRAG: Revealing the Treasures of Knowledge via Active Learning](./papers/active_rag.md) - Enhances RAG by active learning to deepen LLMs' understanding of external knowledge through innovative Knowledge Construction and Cognitive Nexus mechanisms. (Xu, Zhipeng, et al. 2024)
 
+- [Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity](./papers/adaptive-rag.md) - The paper proposes an adaptive question-answering framework that dynamically selects the most suitable strategy for retrieval-augmented large language models based on the complexity of the query, using a classifier trained on automatically collected labels. (Jeong, Soyeong, et al. 2024)
+
 ### RAG vs Finetuning
 
 - [RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture](./papers/rag_finetuning_agriculture.md) - RAG vs Fine-tuning case study on agriculture domain datasets. (Gupta, Aman, et al. 2024)
